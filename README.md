@@ -81,3 +81,14 @@ iNeuron Course On Data Analytics Bootcamp: https://ineuron.ai/course/data-analyt
 
 https://internship.ineuron.ai/
 
+## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
+
+- Krish Naik : https://www.youtube.com/@krishnaik06
+- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
+- Ineuron Intelligence(Live Sessions): https://www.youtube.com/@iNeuroniNtelligence
+- Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
+- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
+- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/krishnaik06)
+- Telegram  [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
+
+
