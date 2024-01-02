@@ -61,6 +61,7 @@ https://docs.python.org/release/3.12.0/
 ![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
 
 1. Power BI: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=avOJF9km-V0&list=PLZoTAELRMXVP3lPoaTTAUBWLQp3Ju45rt&index=1)
+2. Live Power BI In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=S5AnpmxIzrQ&list=PLseXYkzLxM8G3ZguK2CkS33zyK4AbgTaG)
 
 ## ETL Tools
 ![infa-social-share-2022](https://user-images.githubusercontent.com/20041231/211472581-3b05b5d7-2d76-4002-835a-172cada11672.png)
