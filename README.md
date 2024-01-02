@@ -55,3 +55,28 @@ https://docs.python.org/release/3.12.0/
 2. Mysql: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
 3. Fresh My SQL Series: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=N8wGfLajp-o&list=PLmQAMKHKeLZ8Yzqn3zl7L8eyp-yFHUTsC)
 4. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
+
+## Business Intelligence Tools
+
+![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
+
+1. Power BI: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=avOJF9km-V0&list=PLZoTAELRMXVP3lPoaTTAUBWLQp3Ju45rt&index=1)
+
+## ETL Tools
+![infa-social-share-2022](https://user-images.githubusercontent.com/20041231/211472581-3b05b5d7-2d76-4002-835a-172cada11672.png)
+
+Amazing Article on ETL: https://www.informatica.com/resources/articles/what-is-etl.html
+
+![Capture](https://user-images.githubusercontent.com/20041231/211473712-f8737fd4-0622-49de-b751-706322813b31.JPG)
+
+Top ETL Tools: https://www.integrate.io/blog/top-7-etl-tools/
+
+iNeuron Course On Data Analytics Bootcamp: https://ineuron.ai/course/data-analytics-bootcamp2024
+
+## Excel Videos
+
+## Real Time Internships
+![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211743026-4f3da97c-897b-4d10-acea-503591ca935d.jpg)
+
+https://internship.ineuron.ai/
+
